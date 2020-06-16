@@ -13,13 +13,13 @@
   your friend's computer
  
  * The Project
-  * In the command line window  
-  on your computer, run the command **_python3.8 Server.py_**
-  * In the command line window  
-  on your friend's computer, run the  
-  command **_python3.8 Client.py_**
-  * Have your friend follow the instructions  
-  shown on the command line window on your  
-  computer
-  * Move your computer mouse and watch it  
-  move on your friends screen
+    * In the command line window  
+    on your computer, run the command **_python3.8 Server.py_**
+    * In the command line window  
+    on your friend's computer, run the  
+    command **_python3.8 Client.py_**
+    * Have your friend follow the instructions  
+    shown on the command line window on your  
+    computer
+    * Move your computer mouse and watch it  
+    move on your friends screen
