@@ -18,8 +18,9 @@
     * In the command line window  
     on your friend's computer, run the  
     command **_python3.8 Client.py_**
-    * Have your friend follow the instructions  
-    shown on the command line window on your  
-    computer
+    * Have your friend type in the IP address  
+    and port shown on the command line window  
+    on your computer in the command line window  
+    on their computer
     * Move your computer mouse and watch your    
     friend's mouse cursor move
