@@ -4,7 +4,7 @@
 * Setup
   * Download the files
   * Extract the ZIP
-  * Move Client.py and Server.py  
+  * Move **_Client.py_** and **_Server.py_**  
   to a new directory
   * Open up a command line window  
   and **_cd_** over to the new  
@@ -21,5 +21,5 @@
     * Have your friend follow the instructions  
     shown on the command line window on your  
     computer
-    * Move your computer mouse and watch it  
-    move on your friends screen
+    * Move your computer mouse and watch your    
+    friend's mouse cursor move
